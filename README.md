@@ -1,4 +1,4 @@
 # hello-world
-just starting
- I'm entering the world of coding
- looking further to create cool softwares
+
+I'm starting to use github to build cool projects and upload them over here
+looking forward for all your support!!
